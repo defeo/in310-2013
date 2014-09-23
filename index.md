@@ -4,6 +4,8 @@ layout: index
 
 # IN310 – Mathématiques pour l'Informatique
 
+Ceci est l'ancienne version du cours <http://defeo.lu/in310/>, utilisée jusqu'en 2013-2014.
+
 ## Info pratiques
 
 Cours les mardis de 8h00 à 9h30, amphi G.
