@@ -1,4 +1,4 @@
-baseurl: /in310
+baseurl: /in310-2013
 permalink: /:categories/:title
 
 kramdown:
